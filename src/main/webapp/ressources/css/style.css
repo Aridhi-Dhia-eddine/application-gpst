@@ -1,0 +1,65 @@
+
+.bg-img {
+    background-image: url('../img/technicien.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.form-container {
+	display: none;
+}
+.form-container.active {
+	display: block;
+ }
+ 
+ .fond{
+            background-color: rgba(255, 255, 255, 0.8); /* Fond blanc avec 80% d'opacité */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width:70%;
+ }
+ 
+.btn-cent {
+ 	display: flex;
+    justify-content: center;
+    width:100%
+ }
+ 
+.form-title{
+	color:#ECC440;
+}
+
+.bg-pr{
+	background-color :#222F48;
+}
+
+.text-wh{
+	color:#626514;
+	text-decoration: none;
+	font-size:25px;
+}
+.text-wh:hover{
+	color:#626514;
+}
+
+.inf_bg_img{
+	width:100%
+}
+
+
+.div_bg {
+	color:white
+}
+.page_bg{
+		background-color:#3C4E70;
+}
+
+.lien{
+	text-decoration:none;
+}
+
+
